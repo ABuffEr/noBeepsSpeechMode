@@ -2,8 +2,8 @@
 *	 Author: Alberto Buffolino.
 *	 download [version 1.2][1]
 
-This add-on  excludes Beeps mode between speech modes pressing NVDA+s.
-You can only toggle betwen off  or talk.
+This add-on excludes beeps in the speech mode when pressing NVDA+s.
+You can only toggle between off or talk.
 
 ## Changes for 1.2 ##
 *	 Initial version.
