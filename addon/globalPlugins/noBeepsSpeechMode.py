@@ -1,13 +1,14 @@
 # -*- coding: UTF-8 -*-
 #Plugin to switch only between Talk or Off speech modes
 #Author: Alberto Buffolino
-#Last update: 13.03.2013
 
 import addonHandler
 import globalPluginHandler
 import ui
 import speech
 addonHandler.initTranslation()
+
+# Translators: a note: the first two strings, and partially the third also, are present in .po localization file of NVDA for the various languages, and you can copy them from it.
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
