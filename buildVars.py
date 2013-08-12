@@ -17,7 +17,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on installation and add-on information
 	"addon-description" : _("""Add-on to exclude Beeps from possible speech modes pressing NVDA+s"""),
 	# version
-	"addon-version" : "1.3-dev",
+	"addon-version" : "1.4-dev",
 	# Author(s)
 	"addon-author" : "Alberto Buffolino <a.buffolino@gmail.com>",
 	# URL for the add-on documentation support
@@ -29,7 +29,7 @@ import os.path
 
 # Define the python files that are the sources of your add-on.
 # You can use glob expressions here, they will be expanded.
-pythonSources = [os.path.join("addon", "globalPlugins", "*.py")]
+pythonSources = [os.path.join("addon", "globalPlugins", "noBeepsSpeechMode", "*.py")]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources = pythonSources + ["buildVars.py", "docHandler.py"]
