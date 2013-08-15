@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'NoBeepsSpeechMode' '1.3'\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-13 22:00+0200\n"
+"PO-Revision-Date: 2013-07-21 04:18-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Translators: Message presented in input help mode,
+#. this string is partially present in .po localization file of NVDA for the various languages.
+#: addon/globalPlugins/noBeepsSpeechMode/__init__.py:28
+msgid ""
+"Toggles between the speech modes of off and talk. When set to off NVDA will "
+"not speak anything. If talk then NVDA wil just speak normally."
+msgstr ""
+"음성 또는 출력 안함의 두가지 음성출력 모드를 토글합니다. 끄기(Off)로 설정하"
+"면 아무것도 읽지 않습니다. 음성(talk)으로 설정하면 정상적으로 읽어 줍니다. "
+
+#. Add-on summary
+#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:15
+msgid "NoBeepsSpeechMode"
+msgstr "비프음 음성 출력 모드 제거"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on installation and add-on information
+#: buildVars.py:18
+msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
+msgstr "음성 출력 모드 (NVDA+S) 중 비프음을 제거합니다"
+
+#. Translators: Tooltip for an addon menu item.
+#: docHandler.py:60
+#, python-format
+msgid "Opens documentation for %s"
+msgstr "%s에 대한 도움말을 엽니다"
+
+#~ msgid "speech mode off"
+#~ msgstr "음성 출력 모드: 출력 않함"
+
+#~ msgid "speech mode talk"
+#~ msgstr "음성 출력 모드: 음성 출력"

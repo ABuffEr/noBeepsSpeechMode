@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NoBeepsSpeechMode 1.2\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-13 22:00+0200\n"
+"PO-Revision-Date: 2013-07-22 21:10+0100\n"
+"Last-Translator: Juan C. Buño <quetzatl@eresmas.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Translators: Message presented in input help mode,
+#. this string is partially present in .po localization file of NVDA for the various languages.
+#: addon/globalPlugins/noBeepsSpeechMode/__init__.py:28
+msgid ""
+"Toggles between the speech modes of off and talk. When set to off NVDA will "
+"not speak anything. If talk then NVDA wil just speak normally."
+msgstr ""
+"Conmuta entre los modos de voz desactivado y hablar. Cuando se pone en "
+"desactivado NVDA no verbalizará nada. Si se pone en hablar entonces NVDA "
+"verbalizará normalmente."
+
+#. Add-on summary
+#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:15
+msgid "NoBeepsSpeechMode"
+msgstr "NoBeepsSpeechMode"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on installation and add-on information
+#: buildVars.py:18
+msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
+msgstr ""
+"Complemento para excluir pitidos de los modos de voz posibles pulsando NVDA+s"
+
+#. Translators: Tooltip for an addon menu item.
+#: docHandler.py:60
+#, python-format
+msgid "Opens documentation for %s"
+msgstr "Abre la documentación para %s"
+
+#~ msgid "speech mode off"
+#~ msgstr "modo de voz desactivado"
+
+#~ msgid "speech mode talk"
+#~ msgstr "modo de voz hablar"

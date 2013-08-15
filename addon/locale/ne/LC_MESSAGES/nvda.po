@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NoBeepsSpeechMode 1.2\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2013-08-13 22:00+0200\n"
+"PO-Revision-Date: 2013-08-05 16:36+0545\n"
+"Last-Translator: Him Prasad Gautam <drishtibachak@gmail.com>\n"
+"Language-Team: Nepali\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Translators: Message presented in input help mode,
+#. this string is partially present in .po localization file of NVDA for the various languages.
+#: addon/globalPlugins/noBeepsSpeechMode/__init__.py:28
+msgid ""
+"Toggles between the speech modes of off and talk. When set to off NVDA will "
+"not speak anything. If talk then NVDA wil just speak normally."
+msgstr ""
+"वाचन मुद्रा मौ र बोल्ने अवस्तामा साटोफेरो गर्छ । मौन अवस्थामा हुँदा नेत्रवाणी केही बोल्दैन "
+"र  वाचन अवस्तामा हुँदा सादारण रूपले बोल्ने गर्छ ।"
+
+#. Add-on summary
+#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:15
+msgid "NoBeepsSpeechMode"
+msgstr "टीँ नगर्ने अवस्था"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on installation and add-on information
+#: buildVars.py:18
+msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
+msgstr "नेत्रवाणी + s दबाउदा वाचन मुद्रामा टीँ गर्ने  अवस्थालाई हटाउँ छ ।"
+
+#. Translators: Tooltip for an addon menu item.
+#: docHandler.py:60
+#, python-format
+msgid "Opens documentation for %s"
+msgstr "%s का लागि कागजातहरू पल्टाउने छ ।"
+
+#~ msgid "speech mode off"
+#~ msgstr "वाचन मुद्रा मौन"
+
+#~ msgid "speech mode talk"
+#~ msgstr "वाचन मुद्रा वाचन"

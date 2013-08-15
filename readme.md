@@ -10,6 +10,7 @@ You can only toggle between off or talk.
 
 ## Changes for 1.3 ##
 *	 Fixed bug in translations support: added python sources to make strings translatable.
+*	 Translated into: Arabic, Brazilian Portuguese, Bulgarian, Dutch, Farsi, Finnish, French, German, Galician, Hungarian, Italian, Korean, Nepali, Slovak, Slovenian, Spanish, Tamil, Turkish
 
 ## Changes for 1.2 ##
 *	 Initial version.
