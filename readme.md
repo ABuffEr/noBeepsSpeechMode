@@ -7,7 +7,6 @@ You can only toggle between off or talk.
 
 ## Changes for 1.4 ##
 *	 From this version, the messages about speech mode are automatically translated from NVDA in the correct language, no specific translation for addon required (with the possible obvious exception of manifest.ini and script documentation).
-*	 Translated into: Arabic, Brazilian Portuguese, Bulgarian, Dutch, Farsi, Finnish, French, German, Galician, Hungarian, Italian, Korean, Nepali, Slovak, Slovenian, Spanish, Tamil, Turkish
 
 ## Changes for 1.3 ##
 *	 Fixed bug in translations support: added python sources to make strings translatable.
