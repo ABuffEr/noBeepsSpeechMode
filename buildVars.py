@@ -8,13 +8,15 @@ _ = lambda x : x
 
 # Add-on information variables
 addon_info = {
-	# add-on Name
-	"addon-name" : "NoBeepsSpeechMode",
-	# Add-on summary
-	# TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+	# for previously unpublished addons, please follow the community guidelines at:
+	# https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt
+	# add-on Name, internal for nvda
+	"addon-name" : "noBeepsSpeechMode",
+	# Add-on summary, usually the user visible name of the addon.
+	# Translators: Summary for this add-on to be shown on installation and add-on information.
 	"addon-summary" : _("NoBeepsSpeechMode"),
 	# Add-on description
-	# Translators: Long description to be shown for this add-on on installation and add-on information
+	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon-description" : _("""Add-on to exclude Beeps from possible speech modes pressing NVDA+s"""),
 	# version
 	"addon-version" : "1.5-dev",

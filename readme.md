@@ -6,6 +6,9 @@
 This add-on excludes beeps in the speech mode when pressing NVDA+s.
 You can only toggle between off or talk.
 
+## Changes for 1.5 ##
+*	 Added script category (speech).
+
 ## Changes for 1.4 ##
 *	 From this version, the messages about speech mode are automatically translated from NVDA in the correct language, no specific translation for addon required (with the possible obvious exception of manifest.ini and script documentation).
 
