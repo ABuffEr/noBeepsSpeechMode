@@ -1,4 +1,5 @@
 # بدون بوق در حالت گفتاری  (NoBeepsSpeechMode) #
+
 *	 سازنده: Alberto Buffolino.
 *	 دانلود [نسخه 1.4][1]
 
@@ -17,5 +18,7 @@
 
 ## تغییرات داده شده در نسخه 1.2 ##
 *	 نسخه اولیه.
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

@@ -1,6 +1,7 @@
-# NoBeepsSpeechMode #
+# Ei äänimerkit-puhetilaa #
+
 *	 Tekijä: Alberto Buffolino
-*	 Lataa: [versio 1.4][1]
+*	 Lataa [versio 1.4][1]
 
 Tämä lisäosa poistaa äänimerkit-vaihtoehdon puhetilasta painettaessa
 NVDA+S.  Valittavissa ovat vain "ei puhetta" tai "puhe käytössä".
@@ -17,5 +18,7 @@ NVDA+S.  Valittavissa ovat vain "ei puhetta" tai "puhe käytössä".
 
 ## Muutokset versiossa 1.2 ##
 *	 Ensimmäinen versio.
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

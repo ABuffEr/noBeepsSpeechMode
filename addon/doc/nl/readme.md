@@ -1,4 +1,5 @@
 # No Beeps Speech Mode #
+
 *	 Auteur: Alberto Buffolino.
 *	 download [versie 1.4][1]
 
@@ -15,5 +16,7 @@ kan enkel wisselen tussen uit en spreek.
 
 ## Veranderingen voor 1.2 ##
 *	 Eerste versie.
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

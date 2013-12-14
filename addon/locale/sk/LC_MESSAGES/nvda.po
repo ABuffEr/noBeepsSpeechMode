@@ -23,8 +23,7 @@ msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
 msgstr ""
-"Vypína a zapína reč NVDA. Ak je vypnutá, NVDA bude ticho. Pri zapnutej reči "
-"bude NVDA hovoriť."
+"Prepína režim reči NVDA. Dostupné sú možnosti ticho a reč."
 
 #. Add-on summary
 #. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
@@ -36,7 +35,7 @@ msgstr "Režim reči bez pípania"
 #. Translators: Long description to be shown for this add-on on installation and add-on information
 #: buildVars.py:18
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
-msgstr "Doplnok na vypnutie režimu pípania pri prepínaní skratkou nvda+s"
+msgstr "Doplnok určený na vynechanie pípania pri prepínaní režimu reči skratkou nvda+s"
 
 #. Translators: Tooltip for an addon menu item.
 #: docHandler.py:60
@@ -48,4 +47,4 @@ msgstr "otvorí návod pre %s"
 #~ msgstr "Režim ticho"
 
 #~ msgid "speech mode talk"
-#~ msgstr "Režim reť"
+#~ msgstr "Režim reč"

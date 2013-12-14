@@ -1,21 +1,23 @@
 # NoBeepsSpeechMode #
+
 *	 مطور الإضافة: Alberto Buffolino.
 *	 تحميل [الإصدار 1.4][1]
 
 تعمل هذه الإضافة على حذف خيار الصفير من أنماط النطق وذلك عند الضغط على
 NVDA+s. يمكنك فقط التنقل بين النطق وتعطيل النطق.
 
-## Changes for 1.4 ##
-*	 From this version, the messages about speech mode are automatically
-   translated from NVDA in the correct language, no specific translation for
-   addon required (with the possible obvious exception of manifest.ini and
-   script documentation).
+## مستجدات الإصدار 1.4 ##
+*	 بداية من هذا الإصدار, سيتم ترجمة رسائل هذه الإضافة آليا بلغة واجهة NVDA,
+   لا تتطلب هذه الإضافة ترجمة خاصة (باستثناء manifest.ini وملفات المساعدة
+   الخاصة بالإضافة).
 
-## Changes for 1.3 ##
-*	 Fixed bug in translations support: added python sources to make strings
-   translatable.
+## مستجدات الإصدار 1.3 ##
+*	 إصلاح خطأ برمجي في دعم ترجمة الإضافة: إضافة مصادر لغة بيثون من أجل ترجمة
+   الإضافة.
 
 ## مستجدات الإصدار 1.2 ##
-*	 نسخة بدائية
+*	 إصدار أولي
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

@@ -1,4 +1,5 @@
 # टीँ नगर्ने मुद्रा #
+
 *	 लेखक: अल्वर्टो बुफोलिनो ।
 *	 डाउनलोड [version 1.4][1]
 
@@ -6,17 +7,18 @@
 अवस्था निस्तेज पार्ने छ ।.  तपाइ केवल वाचन वा मौन मुद्रामा साटोफेरो गर्न
 सक्नु हुन्छ ।
 
-## Changes for 1.4 ##
-*	 From this version, the messages about speech mode are automatically
-   translated from NVDA in the correct language, no specific translation for
-   addon required (with the possible obvious exception of manifest.ini and
-   script documentation).
+## १.४ मा गरिएका परिवर्तनहरू ##
+*	 यो संस्करण देखि, वाचन मुद्रा सम्बन्धी सन्देसहरू नेत्रवाणीले सहि भाषामा
+   स्वतः अनुवाद गर्ने छ । थप-साधनको छुट्टै अनुवाद गरि रहनु पर्दैन
+   ।(manifest.ini  र script कागजातहरू का निश्चित अपवाद बाहेक) 
 
-## Changes for 1.3 ##
-*	 Fixed bug in translations support: added python sources to make strings
-   translatable.
+## १.३ मा गरिएका परिवर्तनहरू ##
+*	 अनुवाद समर्थन सम्बन्धी समस्या हटाइयो: पदावलीहरूलाई अनुवाद योग्य बनाउन
+   पाइथन श्रोत थपियो ।
 
 ## १.२ संस्करणमा गरिएका परिवर्तनहरू ##
 *	 सुरुको संस्करण
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

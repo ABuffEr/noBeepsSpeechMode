@@ -1,4 +1,5 @@
 # NoBeepsSpeechMode #
+
 *	 Autore: Alberto Buffolino.
 *	 download [versione 1.4][1]
 
@@ -18,5 +19,7 @@ modalità di voce spenta o la modalità parlare.
 
 ## Modifiche per la versione 1.2 ##
 *	 Versione iniziale
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

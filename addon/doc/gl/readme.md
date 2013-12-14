@@ -1,4 +1,5 @@
 # NoBeepsSpeechMode #
+
 *	 Autor: Alberto Buffolino.
 *	 descarga: [versión 1.4][1]
 
@@ -17,5 +18,7 @@ Só podes cambiar entre desactivado ou falar.
 
 ## Cambios para 1.2 ##
 *	 Versión Inicial.
+
+[[!tag stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb

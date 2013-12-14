@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2013-07-20 15:06+0200\n"
+"PO-Revision-Date: 2013-08-21 04:52+0200\n"
 "Last-Translator: fatma\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
@@ -24,6 +24,8 @@ msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
 msgstr ""
+"التنقل بين أنماط التعطيل والكلام. عند اختيار نمط تعطيل النطق لن ينطق NVDA أي "
+"شيء. أما إذا تم اختيار نمط الكلام فسيعمل NVDA بشكل طبيعي."
 
 #. Add-on summary
 #. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.

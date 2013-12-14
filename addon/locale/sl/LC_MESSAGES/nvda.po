@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2013-07-17 10:12+0100\n"
+"PO-Revision-Date: 2013-10-30 07:53+0100\n"
 "Last-Translator: Jožef Gregorc <jozko.gregorc[@]guest.arnes.si\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sl\n"
@@ -24,12 +24,15 @@ msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
 msgstr ""
+"To je stikalo za preklapljanje delovanja govora NVDA. S tem stikalom je "
+"možno govor popolnoma izključiti in NVDA postaviti v delovanje govora. "
+"Opozarjanje na govorna sporočila s pomočjo piska je v tem dodatku izločeno."
 
 #. Add-on summary
 #. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
 #: buildVars.py:15
 msgid "NoBeepsSpeechMode"
-msgstr "delovanje brez piskov ali govora"
+msgstr "DelovanjeBrezPiskov"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on installation and add-on information
