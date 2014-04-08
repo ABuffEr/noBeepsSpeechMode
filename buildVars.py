@@ -31,7 +31,7 @@ import os.path
 
 # Define the python files that are the sources of your add-on.
 # You can use glob expressions here, they will be expanded.
-pythonSources = [os.path.join("addon", "globalPlugins", "noBeepsSpeechMode", "*.py")]
+pythonSources = [os.path.join("addon", "globalPlugins", "noBeepsSpeechMode", "*.py"), os.path.join("addon", "*.py")]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources = pythonSources + ["buildVars.py", "docHandler.py"]
