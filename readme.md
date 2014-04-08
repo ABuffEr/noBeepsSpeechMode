@@ -8,7 +8,7 @@ You can only toggle between off or talk.
 
 ## Changes for 1.5 ##
 *	 Added script category (speech).
-*	 Added onInstall function, to check if an older version is present, and remove it.
+*	 Check for an older version of the addon which is not community supported, and prompt user before removing it.
 
 ## Changes for 1.4 ##
 *	 From this version, the messages about speech mode are automatically translated from NVDA in the correct language, no specific translation for addon required (with the possible obvious exception of manifest.ini and script documentation).
