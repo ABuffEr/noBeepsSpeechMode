@@ -2,7 +2,7 @@
 
 *	 Autor: Alberto Buffolino.
 *	 download [stable version][1]
-*	 download [development version][3]
+*	 download [development version][2]
 
 Ten dodatek usuwa pozycję dźwięki z trybu komunikacji przełączanego przez
 NVDA+s.  Możesz przełączać tylko między bez mowy i mowa.
