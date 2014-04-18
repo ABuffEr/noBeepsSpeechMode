@@ -1,16 +1,16 @@
 # Usuń tryb komunikacji: dźwięki / NoBeepsSpeechMode #
 
 *	 Autor: Alberto Buffolino.
-*	 download [stable version][1]
-*	 download [development version][2]
+*	 Pobierz [wersja stabilna][1]
+*	 Pobierz [wersja rozwojowa][2]
 
 Ten dodatek usuwa pozycję dźwięki z trybu komunikacji przełączanego przez
 NVDA+s.  Możesz przełączać tylko między bez mowy i mowa.
 
-## Changes for 1.5 ##
-*	 Added script category (speech).
-*	 Check for an older version of the addon which is not community supported,
-   and prompt user before removing it.
+## Zmiany dla wersji 1.5 ##
+*	 Dodana kategoria skryptów (mowa).
+*	 Wykrywa starszą wersję dodatku niewspieraną przez społeczność i pyta
+   użytkownika przed jej usunięciem.
 
 ## Zmiany dla wersji 1.4 ##
 *	 Od tej wersji, komunikaty o trybie są automatycznie tłumaczone na
