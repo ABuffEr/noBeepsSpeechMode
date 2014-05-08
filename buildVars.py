@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon-description" : _("""Add-on to exclude Beeps from possible speech modes pressing NVDA+s"""),
 	# version
-	"addon-version" : "1.5-dev",
+	"addon-version" : "1.5",
 	# Author(s)
 	"addon-author" : "Alberto Buffolino <a.buffolino@gmail.com>",
 	# URL for the add-on documentation support
