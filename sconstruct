@@ -183,6 +183,11 @@ mergePot = env.gettextMergePotFile("%s-merge.pot" % "{addon-name}".format(**buil
 env.Alias('mergePot', mergePot)
 env.Depends(mergePot, i18nFiles)
 
+mdFile = "readme.md"
+html = env.markdown(mdFile)
+env.Alias('html', html)
+env.Depends(html, mdFile)
+
 # Generate Manifest path
 manifest = env.NVDAManifest(os.path.join("addon", "manifest.ini"), os.path.join("manifest.ini.tpl"))
 
