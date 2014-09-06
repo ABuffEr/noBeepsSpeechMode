@@ -6,6 +6,9 @@
 This add-on excludes beeps in the speech mode when pressing NVDA+s.
 You can only toggle between off or talk.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Changes for 1.5 ##
 *	 Added script category (speech).
 *	 Check for an older version of the addon which is not community supported, and prompt user before removing it.
