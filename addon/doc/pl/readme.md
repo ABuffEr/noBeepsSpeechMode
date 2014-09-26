@@ -6,8 +6,8 @@
 Ten dodatek usuwa pozycję dźwięki z trybu komunikacji przełączanego przez
 NVDA+s.  Możesz przełączać tylko między bez mowy i mowa.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Zmiany dla wersji 2.0 ##
+*	 Pomoc dodatku dostępna w managerze dodatków.
 
 ## Zmiany dla wersji 1.5 ##
 *	 Dodana kategoria skryptów (mowa).
