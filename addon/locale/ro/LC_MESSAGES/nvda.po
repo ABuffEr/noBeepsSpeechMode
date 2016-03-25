@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: noBeepsSpeechMode 2.1\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2015-09-12 02:00+1000\n"
+"PO-Revision-Date: 2016-03-22 19:44+0200\n"
+"Last-Translator: DanP <dan.punga@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Translators: Message presented in input help mode,
+#. this string is partially present in .po localization file of NVDA for the various languages.
+msgid ""
+"Toggles between the speech modes of off and talk. When set to off NVDA will "
+"not speak anything. If talk then NVDA wil just speak normally."
+msgstr ""
+"Comută între modurile de vorbire dezactivat și pronunție. Când este ales "
+"dezactivat, NVDA nu va pronunța nimic. Dacă este ales pronunție, NVDA va "
+"vorbi normal."
+
+#. Translators: the label of a message box dialog.
+msgid ""
+"You have installed an old and incompatible version of this add-on. Do you "
+"want to uninstall the old version?"
+msgstr ""
+"Ați instalat o versiune veche și incompatibilă a acestui add-on. Doriți să "
+"dezinstalați versiunea vehe?"
+
+#. Translators: the title of a message box dialog.
+msgid "Uninstall old add-on"
+msgstr "Dezinstalare add-on vechi"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "NoBeepsSpeechMode"
+msgstr "NoBeepsSpeechMode (Mod vorbire fără bipuri)"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
+msgstr ""
+"Extensie add-on pentru excluderea bipurilor din modurile posibile de vorbire "
+"prin apăsarea NVDA+s"
