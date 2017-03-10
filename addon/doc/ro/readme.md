@@ -3,8 +3,8 @@
 *	 descarcă [versiunea stabilă][1]
 *	 descarcă [versiunea în dezvoltare][2]
 
-Acest add-on exclude bipurile în modurile de vorbire când apeși NVDA+S. Poți
-doar să comuți între modurile dezactivat și Vorbește.
+Acest supliment exclude bipurile în modurile de vorbire când apeși
+NVDA+S. Poți doar să comuți între modurile dezactivat și Vorbește.
 
 ## Modificări aduse în 2.0. ##
 *	 Ajutorul add-on-ului este disponibil din managerul de add-on-uri.
