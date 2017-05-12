@@ -1,10 +1,19 @@
 # NoBeepsSpeechMode #
-
 *	 Autor: Alberto Buffolino.
-*	 descarga: [versión 1.4][1]
+*	 descargar [versión estable][1]
+*	 descargar [versión de desenvolvemento][2]
 
 Este complemento exclúe os pitidos no  modo de fala cando se prema NVDA+s.
 Só podes cambiar entre desactivado ou falar.
+
+## Cambios para 2.0 ##
+*	 A Axuda deste complemento está disponible dende o Administrador de
+   Complementos.
+
+## Cambios para 1.5 ##
+*	 Engadido script categoría (falar).
+*	 Búscase unha versión vella do complemento que non está soportada pola
+   comunidade, e avísase ó usuario antes de retirala.
 
 ## Cambios para 1.4 ##
 *	 A partires desta versión, as mensaxes a cerca do modo de voz tradúcense
@@ -19,6 +28,8 @@ Só podes cambiar entre desactivado ou falar.
 ## Cambios para 1.2 ##
 *	 Versión Inicial.
 
-[[!tag stable]]
+[[!tag dev stable]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb
+
+[2]: http://addons.nvda-project.org/files/get.php?file=nb-dev
