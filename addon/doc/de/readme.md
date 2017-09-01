@@ -1,4 +1,4 @@
-# NoBeepsSpeechMode #
+# Sprachmodus Signaltöne ausblenden #
 *	 Autor: Alberto Buffolino.
 *	 [Stabile Version][1] herunterladen
 *	 [Testversion][2] herunterladen
@@ -30,6 +30,6 @@ NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
 
-[2]: http://addons.nvda-project.org/files/get.php?file=nb-dev
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev

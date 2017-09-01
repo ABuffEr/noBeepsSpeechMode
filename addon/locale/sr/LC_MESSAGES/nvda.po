@@ -1,17 +1,17 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the noBeepsSpeechMode package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: NoBeepsSpeechMode 1.2\n"
+"Project-Id-Version: noBeepsSpeechMode 2.3\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2017-05-19 23:55+0400\n"
-"Last-Translator: Ruslan Kolodyazhni <eye0@rambler.ru>\n"
-"Language-Team: Translators <LL@li.org>\n"
-"Language: ru_RU\n"
+"POT-Creation-Date: 2017-02-03 14:00+1000\n"
+"PO-Revision-Date: 2017-05-20 00:47+0100\n"
+"Last-Translator: Nikola Jovic <wwenikola123@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,32 +23,29 @@ msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
 msgstr ""
-"Переключение между режимами вывода выключено и речь. При значении выключено, "
-"NVDA умолкнет. При значении речь, NVDA будет говорить как обычно."
+"Prebacuje se između režima govora priče i isključeno. Kada je podešen na "
+"isključeno NVDA neće govoriti. Kada je podešen na priču NVDA će normalno "
+"govoriti"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
 msgstr ""
-"У вас установлена старая и несовместимая версия этого дополнения. Вы "
-"действительно хотите удалить старую версию?"
+"Instalirali ste staru i nekompatibilnu verziju ovog dodatka. Da li želite da "
+"uklonite staru verziju?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall old add-on"
-msgstr "Удалить старое дополнение"
+msgstr "Ukloni stari dodatak"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
-msgstr "NoBeepsSpeechMode"
+msgstr "Bez režima govora sa pištanjem"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr ""
-"Дополнение для исключения сигналов из возможных режимов озвучивания, "
-"переключаемых по NVDA+s"
-
-#~ msgid "Opens documentation for %s"
-#~ msgstr "Открыть документацию для %s"
+"Dodatak koji izbacuje pištanje iz mogućih NVDA režima govora komandom NVDA+s"
