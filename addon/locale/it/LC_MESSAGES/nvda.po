@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2013-07-23 09:30+0100\n"
-"Last-Translator: Simone Dal Maso <simone.dalmaso@juvox.it>\n"
+"PO-Revision-Date: 2017-09-25 11:27+0200\n"
+"Last-Translator: Simone Dal Maso <simone.dalmaso@gmail.com>\n"
 "Language-Team: Simone Dal Maso <simone.dalmaso@juvox.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
@@ -27,25 +27,29 @@ msgstr ""
 "spenta, NVDA non parlerà. Nella modalità di voce parlare, NVDA si comporterà "
 "come sempre."
 
-#. Add-on summary
-#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#. Translators: the label of a message box dialog.
+msgid ""
+"You have installed an old and incompatible version of this add-on. Do you "
+"want to uninstall the old version?"
+msgstr ""
+"è stata installata una versione vecchia e non compatibile del componente "
+"aggiuntivo. Si desidera disinstallarla?"
+
+#. Translators: the title of a message box dialog.
+msgid "Uninstall old add-on"
+msgstr "Disinstallazione vecchio componente aggiuntivo"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
 msgstr "NoBeepsSpeechMode"
 
 #. Add-on description
-#. Translators: Long description to be shown for this add-on on installation and add-on information
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr ""
 "Componente aggiuntivo che esclude la modalità beep tra le scelte possibili "
 "quando si preme NVDA+s"
 
-#. Translators: Tooltip for an addon menu item.
-#, python-format
-msgid "Opens documentation for %s"
-msgstr "Apre la documentazione per %s"
-
-#~ msgid "speech mode off"
-#~ msgstr "Modalità di voce spenta"
-
-#~ msgid "speech mode talk"
-#~ msgstr "Modalità di voce parlare"
+#~ msgid "Opens documentation for %s"
+#~ msgstr "Apre la documentazione per %s"

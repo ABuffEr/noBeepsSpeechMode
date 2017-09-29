@@ -1,10 +1,18 @@
 # Modo de fala sem bipe #
-
 *	 Autor: Alberto Buffolino.
-*	 baixe a [versão 1.4][1]
+*	 baixe a [versão estável][1]
+*	 baixe a [versão em desenvolvimento][2]
 
 Este complemento exclui os bipes dos modos de fala ao pressionar NVDA+s. Só
 é possível alternar entre desativado e falar.
+
+## Mudanças na 2.0 ##
+*	 A ajuda do complemento está disponível no Gestor de Complementos.
+
+## Mudanças na 1.5 ##
+*	 Adicionada uma categoria de script (fala).
+*	 Procura uma versão antiga do complemento que não tenha suporte da
+   comunidade e avisa o usuário antes de removê-la.
 
 ## Mudanças na 1.4 ##
 *	 Desta versão em diante, as mensagens sobre o modo de fala são traduzidas
@@ -19,6 +27,8 @@ Este complemento exclui os bipes dos modos de fala ao pressionar NVDA+s. Só
 ## Mudanças na 1.2 ##
 *	 Versão inicial.
 
-[[!tag stable]]
+[[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
+
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev
