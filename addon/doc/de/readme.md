@@ -12,7 +12,7 @@ NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
 
 ## Änderungen in 1.5 ##
 *	 Skriptkategorie Sprache hinzugefügt.
-*	 Überprüfen der veralten Version der Erweiterung, die nicht von der
+*	 Überprüfen der veralteten Version der Erweiterung, die nicht von der
    Comunity unterstützt wird. Nach Rückfrage wird diese gelöscht.
 
 ## Änderungen in 1.4 ##
