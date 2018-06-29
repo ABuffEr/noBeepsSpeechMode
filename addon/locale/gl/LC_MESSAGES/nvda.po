@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2017-05-19 16:46+0100\n"
-"Last-Translator: Juan C. Buño <quetzatl@eresmas.net>\n"
+"PO-Revision-Date: 2018-05-08 18:49+0100\n"
+"Last-Translator: Adriani Botez <adriani.botez@gmail.com>\n"
 "Language-Team: galician translation team <oprisniki@gmail.com>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.11\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
@@ -42,7 +42,7 @@ msgstr "Desinstalar complemento vello"
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
-msgstr "NoBeepsSpeechMode"
+msgstr "noBeepsSpeechMode"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
