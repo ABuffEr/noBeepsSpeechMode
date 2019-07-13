@@ -27,7 +27,6 @@ msgstr ""
 "باشد NVDA هیچ چیز نخواهد خواند. اگر در حالت گفتار باشد NVDA بطور عادی کار "
 "میکند."
 
-<<<<<<< Updated upstream
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
@@ -42,34 +41,14 @@ msgstr "حذفِ افزونه‌ی قدیمی"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
-=======
-#. Add-on summary
-#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
->>>>>>> Stashed changes
 msgid "NoBeepsSpeechMode"
 msgstr "بدونِ حالتِ گفتاریِ بوق"
 
 #. Add-on description
-<<<<<<< Updated upstream
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr ""
 "افزونه‌ای برای خارج کردنِ حالتِ بوق از حالت‌های گفتاریِ موجود هنگامِ فِشُردنِ NVDA+S"
-=======
-#. Translators: Long description to be shown for this add-on on installation and add-on information
-msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
-msgstr ""
-"افزونه ای برای جلوگیری از بوق زدن در حالت گفتاری موقع فشار دادن کلیدهای NVDA"
-"+s"
-
-#. Translators: Tooltip for an addon menu item.
-#, python-format
-msgid "Opens documentation for %s"
-msgstr "سند را برای %s باز میکند"
-
-#~ msgid "speech mode off"
-#~ msgstr "حالت گفتاری خاموش"
->>>>>>> Stashed changes
 
 #~ msgid "Opens documentation for %s"
 #~ msgstr "سند را برای %s باز میکند"
