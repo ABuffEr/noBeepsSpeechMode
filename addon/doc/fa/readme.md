@@ -1,24 +1,35 @@
 # بدون بوق در حالت گفتاری  (NoBeepsSpeechMode) #
+*	 نویسنده: Alberto Buffolino.
+*	 دانلود [نسخه‌ی پایدار][1]
+*	 دانلود [نسخه‌ی در حال توسعه][2]
 
-*	 سازنده: Alberto Buffolino.
-*	 دانلود [نسخه 1.4][1]
+این افزونه هنگام فشردن NVDA+S، حالت بوق را از حالت‌های موجود خارج میکند. شما
+تنها دو حالت خاموش و گفتار را خواهید دید و میتوانید بین این دو حالت تغییر
+وضعیت دهید.
 
-موقعی که NVDA+s را فشار میدهید این افزونه مانع ایجاد بوق در حالت گفتاری
-میشود. شما میتوانید فقط از حالت گفتاری به حالت خاموش و برعکس تغییر بدهید.
+## تغییرات در نسخه‌ی 2.0 ##
+*	 راهنمای افزونه از مدیر افزونه‌ها در دسترس است.
 
-## Changes for 1.4 ##
-*	 From this version, the messages about speech mode are automatically
-   translated from NVDA in the correct language, no specific translation for
-   addon required (with the possible obvious exception of manifest.ini and
-   script documentation).
+## تغییرات در نسخه‌ی 1.5 ##
+*	 دسته‌ی اسکریپت (speech) افزوده شد.
+*	 بررسی میکند که نسخه‌ی قدیمیتری از این افزونه که البته مورد پشتیبانی انجمن
+   نیست نصب شده یا نه؛ و به کاربر اعلام میکند که قبل نصب، نسخه‌ی قبلی را حذف
+   کند.
 
-## Changes for 1.3 ##
-*	 Fixed bug in translations support: added python sources to make strings
-   translatable.
+## تغییرات در نسخه‌ی 1.4 ##
+*	 از این نسخه، پیام‌های مربوط به حالت‌های گفتاری بطور خودکار از طرف NVDA به
+   زبان درست ترجمه میشوند. ترجمه‌ی ویژه‌ای برای افزونه نیاز نیست؛ مگر
+   ترجمه‌ی manifest.ini و مستندات اسکریپت.
 
-## تغییرات داده شده در نسخه 1.2 ##
-*	 نسخه اولیه.
+## تغییرات در نسخه‌ی 1.3 ##
+*	 اشکالی که در پشتیبانی از ترجمه وجود داشت برطرف شد. منابع پایتون افزوده شد
+   تا رشته‌های پیام‌ها قابل ترجمه شوند.
 
-[[!tag stable]]
+## تغییرات در نسخه‌ی 1.2 ##
+*	 نسخه‌ی اول.
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[[!tag dev stable]]
+
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
+
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev

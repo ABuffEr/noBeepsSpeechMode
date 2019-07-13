@@ -1,7 +1,7 @@
 # Sprachmodus Signaltöne ausblenden #
 *	 Autor: Alberto Buffolino.
-*	 [Stabile Version][1] herunterladen
-*	 [Testversion][2] herunterladen
+*	 [Stabile Version herunterladen][1]
+*	 [Entwicklerversion herunterladen][2]
 
 Diese Erweiterung schließt den Sprachausgabenmodus Signaltöne aus. Wenn Sie
 NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
