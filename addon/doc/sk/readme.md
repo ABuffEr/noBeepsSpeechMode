@@ -1,10 +1,18 @@
 # Režim reči bez pípania #
-
 *	 Autor: Alberto Buffolino.
-*	 Stiahnuť [verzia 1.4][1]
+*	 Stiahnuť [stabilnú verziu][1]
+*	 Stiahnuť [vývojovú verziu][2]
 
 Tento doplnok odstráni pípanie z množiny dostupných režimov reči, takže po
 stlačení nvda+s bude možné prepínať len medzi režimami reč a ticho.
+
+## zmeny vo verzii 2.0 ##
+*	 Návod k doplnku nájdete v správcovi doplnkov.
+
+## zmeny vo verzii 1.5 ##
+*	 Pridaná kategória reč pre skript v dialógu klávesové skratky.
+*	 Skontroluje, či nie je nainštalovaná staršia verzia doplnku a navrhne jej
+   odinštaláciu.
 
 ## zmeny vo verzii 1.4 ##
 *	 od tejto verzie sú správy o stave reči prekladané automaticky zo správ
@@ -17,6 +25,8 @@ stlačení nvda+s bude možné prepínať len medzi režimami reč a ticho.
 ## zmeny vo verzii 1.2 ##
 *	 prvé vydanie.
 
-[[!tag stable]]
+[[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
+
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev

@@ -1,7 +1,7 @@
 # NoBeepsSpeechMode #
 *	 Autore: Alberto Buffolino.
-*	 download [stable version][1]
-*	 download [development version][2]
+*	 Scarica la [versione stabile][1]
+*	 Scarica la [versione in sviluppo][2]
 
 Questo componente aggiuntivo rimuove la modalità beep tra le scelte
 disponibili quando si preme NVDA+s. è possibile quindi selezionare solo la

@@ -1,4 +1,4 @@
-# Usuń tryb komunikacji: dźwięki / NoBeepsSpeechMode #
+# NoBeepsSpeechMode #
 *	 Autor: Alberto Buffolino.
 *	 Pobierz [wersja stabilna][1]
 *	 Pobierz [wersja rozwojowa][2]
