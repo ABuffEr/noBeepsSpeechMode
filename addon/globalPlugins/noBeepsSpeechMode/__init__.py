@@ -5,7 +5,7 @@
 import addonHandler
 import globalPluginHandler
 import speech
-import msg
+from . import msg
 addonHandler.initTranslation()
 
 try:
