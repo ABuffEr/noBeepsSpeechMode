@@ -26,6 +26,12 @@ addon_info = {
 	"addon_url" : "https://addons.nvda-project.org",
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
+	# Minimum NVDA version supported (e.g. "2018.3")
+	"addon_minimumNVDAVersion" : "2017.3",
+	# Last NVDA version supported/tested (e.g. "2018.4", ideally more recent than minimum version)
+	"addon_lastTestedNVDAVersion" : "2019.3",
+	# Add-on update channel (default is stable)
+	"addon_updateChannel" : None,
 }
 
 
