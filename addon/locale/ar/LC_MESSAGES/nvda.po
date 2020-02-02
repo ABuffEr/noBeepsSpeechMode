@@ -19,7 +19,6 @@ msgstr ""
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
-#: addon/globalPlugins/noBeepsSpeechMode/__init__.py:28
 msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
@@ -29,18 +28,15 @@ msgstr ""
 
 #. Add-on summary
 #. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
-#: buildVars.py:15
 msgid "NoBeepsSpeechMode"
 msgstr "NoBeepsSpeechMode"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on installation and add-on information
-#: buildVars.py:18
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr "إضافة تحذف خيار الصفير من أنماط دائرة النطق عند الضغط على NVDA+s"
 
 #. Translators: Tooltip for an addon menu item.
-#: docHandler.py:60
 #, python-format
 msgid "Opens documentation for %s"
 msgstr "يفتح ملفات المساعدة الخاصة ب %s"

@@ -16,7 +16,7 @@ stlačení nvda+s bude možné prepínať len medzi režimami reč a ticho.
 
 ## zmeny vo verzii 1.4 ##
 *	 od tejto verzie sú správy o stave reči prekladané automaticky zo správ
-   NVDa, takže doplnok nevyžaduje špeciálny preklad (výnimku tvorí manyfest
+   NVDA, takže doplnok nevyžaduje špeciálny preklad (výnimku tvorí manyfest
    súbor a odkaz na návod)
 
 ## zmeny vo verzii 1.3 ##
