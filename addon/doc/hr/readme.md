@@ -1,31 +1,30 @@
-# NoBeepsSpeechMode #
+# Modus govora bez zvučnih signala (NoBeepsSpeechMode) #
 *	 Autor: Alberto Buffolino.
-*	 Preuzimanje [stabilna inačica][1]
-*	 Preuzimanje [razvojna inačica][2]
+*	 Preuzmi [stabilnu verziju][1]
+*	 Preuzmi [razvojnu verziju][2]
 
-Ovaj dodatak izbacuje zvučne signale iz načina izgovora kod pritiska naredbe
-NVDA+s.  Tako se možete prebacivati samo između načina Isključeno ili
-Govori.
+Ovaj dodatak isključuje zvučne signale u modusu govora pritiskom tipki
+NVDA+s. Moguće je prebacivanje samo između isključeno ili govor.
 
 ## Promjene u 2.0 ##
-*	 Pomoć za dodatak je dostupna u upravitelju dodacima.
+*	 Pomoć za dodatak je dostupna u upravljaču za dodatke.
 
 ## Promjene u 1.5 ##
 *	 Dodana kategorija skripte (govor).
-*	 Provjeri starije verzije dodatka koje nisu podržane od zajednice te
-   najavi korisniku prije uklanjanja.
+*	 Provjeri stariju verziju dodatka koja nije podržane od zajednice te
+   upozori korisnika prije uklanjanja.
 
 ## Promjene u 1.4 ##
-*	 Od ove inačice, poruke o načinu izgovora automatski su prevedene iz NVDA
+*	 Od ove verzije, poruke o načinu izgovora automatski su prevedene iz NVDA
    programa na pravilnom jeziku, bez potrebe za posebnim prijevodom dodatka
    (s mogućim očitim izuzetkom za manifest.ini i dokumentaciju za skriptu).
 
 ## Promjene u 1.3 ##
-*	 Ispravljena greška u podršci za prevođenje: dodani python izvori kako bi
-   se poruke učinilo prevodivima.
+*	 Ispravljena greška u podršci za prevođenje: dodani su python izvori, kako
+   bi se poruke mogle prevoditi.
 
 ## Promjene u 1.2 ##
-*	 Prva inačica.
+*	 Prva verzija.
 
 [[!tag dev stable]]
 

@@ -8,39 +8,45 @@ msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2013-07-21 15:28+0100\n"
+"PO-Revision-Date: 2020-01-07 17:48+0100\n"
 "Last-Translator: Ondrej Rosík <ondrej.rosik@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Language-Team: \n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
 msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
-msgstr ""
-"Prepína režim reči NVDA. Dostupné sú možnosti ticho a reč."
+msgstr "Prepína režim reči NVDA. Dostupné sú možnosti ticho a reč."
 
-#. Add-on summary
-#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#. Translators: the label of a message box dialog.
+msgid ""
+"You have installed an old and incompatible version of this add-on. Do you "
+"want to uninstall the old version?"
+msgstr ""
+"Máte nainštalovanú staršiu a nekompatibilnú verziu doplnku. Chcete ju "
+"odinštalovať?"
+
+#. Translators: the title of a message box dialog.
+msgid "Uninstall old add-on"
+msgstr "odinštalovať staršiu verziu"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
 msgstr "Režim reči bez pípania"
 
 #. Add-on description
-#. Translators: Long description to be shown for this add-on on installation and add-on information
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
-msgstr "Doplnok určený na vynechanie pípania pri prepínaní režimu reči skratkou nvda+s"
+msgstr ""
+"Doplnok určený na vynechanie pípania pri prepínaní režimu reči skratkou nvda"
+"+s"
 
-#. Translators: Tooltip for an addon menu item.
-#, python-format
-msgid "Opens documentation for %s"
-msgstr "otvorí návod pre %s"
-
-#~ msgid "speech mode off"
-#~ msgstr "Režim ticho"
-
-#~ msgid "speech mode talk"
-#~ msgstr "Režim reč"
+#~ msgid "Opens documentation for %s"
+#~ msgstr "otvorí návod pre %s"
