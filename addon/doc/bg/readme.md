@@ -1,7 +1,7 @@
-# NoBeepsSpeechMode (РежимНаГовораБезБибипкане) #
+# Режим на говора без бибипкане (NoBeepsSpeechMode) #
 *	 Автор: Alberto Buffolino.
-*	 Изтегляне [стабилна версия][1]
-*	 Изтегляне [работна версия][2]
+*	 Изтегляне на [стабилна версия][1]
+*	 Изтегляне на [тестова версия][2]
 
 Тази добавка премахва бибипкането като възможна опция от режимите на говор
 при натискане на NVDA+s.  Когато е активна, можете да превключвате само
@@ -31,6 +31,6 @@
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
 
-[2]: http://addons.nvda-project.org/files/get.php?file=nb-dev
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev

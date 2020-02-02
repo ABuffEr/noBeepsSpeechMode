@@ -28,6 +28,6 @@ NVDA+S. Можно переключать только между выключе
 
 [[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
 
-[2]: http://addons.nvda-project.org/files/get.php?file=nb-dev
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev

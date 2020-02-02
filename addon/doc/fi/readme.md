@@ -1,10 +1,18 @@
 # Ei äänimerkit-puhetilaa #
-
 *	 Tekijä: Alberto Buffolino
-*	 Lataa [versio 1.4][1]
+*	 Lataa [vakaa versio][1]
+*	 Lataa [kehitysversio][2]
 
 Tämä lisäosa poistaa äänimerkit-vaihtoehdon puhetilasta painettaessa
 NVDA+S.  Valittavissa ovat vain "ei puhetta" tai "puhe käytössä".
+
+## Muutokset versiossa 2.0 ##
+*	 Ohje on käytettävissä Lisäosien hallinnasta.
+
+## Muutokset versiossa 1.5 ##
+*	 Lisätty skriptikategoria (puhe).
+*	 Tarkistetaan, onko lisäosan vanhempi, epävirallinen versio asennettuna ja
+   kysytään käyttäjältä vahvistus ennen sen poistamista.
 
 ## Muutokset versiossa 1.4 ##
 *	 Puhetilailmoitusten käännökset otetaan tästä versiosta lähtien
@@ -19,6 +27,8 @@ NVDA+S.  Valittavissa ovat vain "ei puhetta" tai "puhe käytössä".
 ## Muutokset versiossa 1.2 ##
 *	 Ensimmäinen versio.
 
-[[!tag stable]]
+[[!tag dev stable]]
 
-[1]: http://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://addons.nvda-project.org/files/get.php?file=nb
+
+[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev
