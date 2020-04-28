@@ -1,12 +1,12 @@
 # -*- coding: UTF-8 -*-
 
 import addonHandler
-import gui
-import wx
 
 addonHandler.initTranslation()
 
 def onInstall():
+	import gui
+	import wx
 	for addon in addonHandler.getAvailableAddons():
 		if addon.manifest['name'] == "NoBeepsSpeechMode":
 			if gui.messageBox(
