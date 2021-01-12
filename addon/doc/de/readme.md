@@ -26,7 +26,7 @@ NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
    hinzugefügt, sodass Zeichenketten übersetzt werden können.
 
 ## Änderungen in 1.2 ##
-*	 Erstveröffentlichung
+*	 Erstveröffentlichung.
 
 [[!tag dev stable]]
 

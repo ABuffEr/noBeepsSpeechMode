@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDREss>, YEAR.
+# This file is distributed under the same license as the noBeepsSpeechMode package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: NoBeepsspeechMode 1.2\n"
+"Project-Id-Version: noBeepsSpeechMode 2.3\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2017-07-23 17:47+0200\n"
-"Last-Translator: René Linke <rene.linke@hamburg.de>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2017-02-03 14:00+1000\n"
+"PO-Revision-Date: 2018-08-23 17:50+0200\n"
 "Language: de_CH\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: Robert Hänggi <aarjay.robert@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
@@ -23,15 +23,16 @@ msgid ""
 "Toggles between the speech modes of off and talk. When set to off NVDA will "
 "not speak anything. If talk then NVDA wil just speak normally."
 msgstr ""
-"Wechselt zwischen den Modi \"Sprachausgabe Aus\" und \"Sprachausgabe Ein\"."
+"Schaltet zwischen den Sprachmodi um. Wenn sie ausgeschaltet ist, spricht "
+"NVDA nichts. Wenn Sie eingeschaltet ist, dann spricht NVDA normal."
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed an old and incompatible version of this add-on. Do you "
 "want to uninstall the old version?"
 msgstr ""
-"Sie haben eine veraltete und inkompatible Version der Erweiterung "
-"installiert. Möchten Sie die alte Version jetzt entfernen?"
+"Sie haben eine alte und inkompatible Version dieser Erweiterung "
+"installiert. Möchten Sie die alte Version deinstallieren?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall old add-on"
@@ -39,16 +40,12 @@ msgstr "Alte Erweiterung deinstallieren"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
-#, fuzzy
 msgid "NoBeepsSpeechMode"
-msgstr "Signaltöne ausblenden"
+msgstr "NoBeepsSpeechMode"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr ""
-"Erweiterung für das Abschalten der Signaltöne während des Sprachvorgangs mit "
-"NVDA+S."
-
-#~ msgid "Opens documentation for %s"
-#~ msgstr "Öffnet die Dokumentation für %s."
+"Erweiterung zum Ausschluss von Beeps aus möglichen Sprachmodi durch Drücken "
+"von NVDA+S"
