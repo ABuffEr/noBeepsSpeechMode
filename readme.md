@@ -1,6 +1,7 @@
 # NoBeepsSpeechMode #
+
 *	 Author: Alberto Buffolino.
-*	 download [stable version][1]
+*	 download [stable version][2]
 
 This add-on excludes beeps in the speech mode when pressing NVDA+s.
 You can only toggle between off or talk.
@@ -22,4 +23,5 @@ You can only toggle between off or talk.
 *	 Initial version.
 
 [1]: http://addons.nvda-project.org/files/get.php?file=nb
+[2]: https://raw.githubusercontent.com/ABuffEr/noBeepsSpeechMode/master/packages/noBeepsSpeechMode-4.0.nvda-addon
 
