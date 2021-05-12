@@ -5,7 +5,7 @@
 import addonHandler
 import globalPluginHandler
 import speech
-from . import msg
+from . import msg as NVDALocale
 addonHandler.initTranslation()
 
 try:
@@ -18,17 +18,14 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	scriptCategory = SCRCAT_SPEECH
 
 	def script_noBeepsSpeechMode(self, gesture):
-		curMode = speech.speechMode
-		if curMode == speech.speechMode_talk:
-			# change order of two next lines of code to having no speech message about off
-			# (direct off mode, with only Braille message, if active)
+		curMode = speech.getState().speechMode
+		if curMode == speech.SpeechMode.talk:
+			NVDALocale.message("Speech mode off")
+			speech.setSpeechMode(speech.SpeechMode.off)
+		elif curMode == speech.SpeechMode.off:
+			speech.setSpeechMode(speech.SpeechMode.talk)
 			# Translators: no translation required (see msg.py)
-			msg.message("Speech mode off")
-			speech.speechMode = speech.speechMode_off
-		elif curMode == speech.speechMode_off:
-			speech.speechMode = speech.speechMode_talk
-			# Translators: no translation required (see msg.py)
-			msg.message("Speech mode talk")
+			NVDALocale.message("Speech mode talk")
 
 	# Translators: Message presented in input help mode,
 	# this string is partially present in .po localization file of NVDA for the various languages.
