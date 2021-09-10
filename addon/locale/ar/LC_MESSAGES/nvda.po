@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: NoBeepsSpeechMode 1.2\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2013-08-13 22:00+0200\n"
-"PO-Revision-Date: 2013-08-21 04:52+0200\n"
-"Last-Translator: fatma\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-09-06 23:27+0300\n"
+"Last-Translator: Hatoon <h.felemban@hotmail.com>\n"
+"Language-Team: \n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 3.0\n"
 
 #. Translators: Message presented in input help mode,
 #. this string is partially present in .po localization file of NVDA for the various languages.
@@ -26,17 +26,25 @@ msgstr ""
 "التنقل بين أنماط التعطيل والكلام. عند اختيار نمط تعطيل النطق لن ينطق NVDA أي "
 "شيء. أما إذا تم اختيار نمط الكلام فسيعمل NVDA بشكل طبيعي."
 
-#. Add-on summary
-#. TRANSLATORS: Summary for this add-on to be shown on installation and add-on information.
+#. Translators: the label of a message box dialog.
+msgid ""
+"You have installed an old and incompatible version of this add-on. Do you "
+"want to uninstall the old version?"
+msgstr "لديك إصدارٌ قديم من هذه الإضافة وغير متوافق. هل ترغبُ في حذفه؟"
+
+#. Translators: the title of a message box dialog.
+msgid "Uninstall old add-on"
+msgstr "إزالة الإضافة"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
-msgstr "NoBeepsSpeechMode"
+msgstr "تعطيل النطق"
 
 #. Add-on description
-#. Translators: Long description to be shown for this add-on on installation and add-on information
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 msgid "Add-on to exclude Beeps from possible speech modes pressing NVDA+s"
 msgstr "إضافة تحذف خيار الصفير من أنماط دائرة النطق عند الضغط على NVDA+s"
 
-#. Translators: Tooltip for an addon menu item.
-#, python-format
-msgid "Opens documentation for %s"
-msgstr "يفتح ملفات المساعدة الخاصة ب %s"
+#~ msgid "Opens documentation for %s"
+#~ msgstr "يفتح ملفات المساعدة الخاصة ب %s"
