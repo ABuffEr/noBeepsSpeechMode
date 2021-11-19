@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: noBeepsSpeechMode 2.3\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2017-02-03 14:00+1000\n"
-"PO-Revision-Date: 2021-10-30 22:26+0100\n"
+"PO-Revision-Date: 2021-11-18 23:17+0000\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +44,7 @@ msgstr "Desinstalar o extra antigo"
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "NoBeepsSpeechMode"
-msgstr "nodo sem beeps"
+msgstr "Modo sem beeps"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
