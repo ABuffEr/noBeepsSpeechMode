@@ -1,7 +1,7 @@
 # NoBeepsSpeechMode #
 *	 Autor: Alberto Buffolino.
-*	 Pobierz [wersja stabilna][1]
-*	 Pobierz [wersja rozwojowa][2]
+*	 Pobierz [Wersja stabilna][1]
+*	 pobierz [wersja rozwojowa][2]
 
 Ten dodatek usuwa pozycję dźwięki z trybu komunikacji przełączanego przez
 NVDA+s.  Możesz przełączać tylko między bez mowy i mowa.
