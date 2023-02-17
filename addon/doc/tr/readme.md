@@ -1,18 +1,18 @@
 # NoBeepsSpeechMode #
 *	 Yazar: Alberto Buffolino.
-*	 download [stable version][1]
-*	 download [development version][2]
+*	 [Kararlı sürümü][1] indir
+*	 [geliştirme sürümü][2]nü indir
 
 NVDA konuşma kiplerinden bipleme kipini siler. Sadece kapalı veya konuşma
 arasında geçiş yapabilirsiniz.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## 2.0 için Değişiklikler ##
+*	 Eklenti yardımı, Eklenti Yöneticisi'nden edinilebilir.
 
-## Changes for 1.5 ##
-*	 Added script category (speech).
-*	 Check for an older version of the addon which is not community supported,
-   and prompt user before removing it.
+## 1.5 için Değişiklikler ##
+*	 Girdi hareketi kategorisi (konuşma) eklendi.
+*	 Eklentinin topluluk tarafından desteklenmeyen eski bir sürümünü kontrol
+   et ve kaldırmadan önce kullanıcıya sor.
 
 ## 1.4 Değişiklikler ##
 *	 Bu sürümle, konuşma modu hakkında mesajlar otomatik olarak doğru dilde

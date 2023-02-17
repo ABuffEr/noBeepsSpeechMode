@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: noBeepsSpeechMode 2.1\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2015-09-12 02:00+1000\n"
 "PO-Revision-Date: 2017-03-05 17:48+0200\n"
 "Last-Translator: Florian Ionașcu <florianionascu@hotmail.com>\n"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: noBeepsSpeechMode 2.3\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2017-02-03 14:00+1000\n"
 "PO-Revision-Date: 2019-01-09 07:52+0800\n"
 "Language: zh_CN\n"
