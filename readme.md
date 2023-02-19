@@ -11,4 +11,4 @@ Note: current release is for NVDA 2021.1 and beyond; for older versions, downloa
 
 
 [old-stable]: https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v4.0/noBeepsSpeechMode-4.0.nvda-addon
-[stable]: https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.1/noBeepsSpeechMode-5.1.nvda-addon
+[stable]: https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.3/noBeepsSpeechMode-5.3.nvda-addon
