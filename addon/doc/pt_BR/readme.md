@@ -29,6 +29,6 @@ Este complemento exclui os bipes dos modos de fala ao pressionar NVDA+s. Só
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=nb
+[1]: https://www.nvaccess.org/addonStore/legacy?file=nb
 
-[2]: https://addons.nvda-project.org/files/get.php?file=nb-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=nb-dev

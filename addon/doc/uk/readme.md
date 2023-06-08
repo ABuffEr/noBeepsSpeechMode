@@ -31,4 +31,10 @@
    щоб рядки можна було перекладати.
 
 ## Зміни у версії 1.2 ##
-* Перший реліз.
+*	 Перший реліз.
+
+[[!tag dev stable]]
+
+[1]: https://www.nvaccess.org/addonStore/legacy?file=nb
+
+[2]: https://www.nvaccess.org/addonStore/legacy?file=nb-dev
