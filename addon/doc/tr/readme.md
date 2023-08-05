@@ -15,8 +15,9 @@ arasında geçiş yapabilirsiniz.
    et ve kaldırmadan önce kullanıcıya sor.
 
 ## 1.4 Değişiklikler ##
-*	 Bu sürümle, konuşma modu hakkında mesajlar otomatik olarak doğru dilde
-   söylenir, eklenti için özel bir çeviriye gerek kalmadı. 
+*	 Bu sürümden itibaren, konuşma moduyla ilgili mesajlar otomatik olarak
+   NVDA'dan doğru dile çevrilir, eklenti için özel bir çeviri gerekmez
+   (manifest.ini ve betik belgelerinin olası istisnası hariç).
 
 ## 1.3 Değişiklikler ##
 *	 Çeviri desteğindeki  hata giderildi: dizeleri çevrilebilir yapmak için
