@@ -1,18 +1,18 @@
-# Sprachmodus Signaltöne ausblenden #
+# Keine Signaltöne im Sprachmodus #
 *	 Autor: Alberto Buffolino.
 *	 [Stabile Version herunterladen][1]
 *	 [Entwicklerversion herunterladen][2]
 
-Diese Erweiterung schließt den Sprachausgabenmodus Signaltöne aus. Wenn Sie
+Diese NVDA-Erweiterung schließt die Signaltöne im Sprachmodus aus. Wenn Sie
 NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
 
 ## Änderungen in 2.0 ##
-*	 Hilfe zur Erweiterung ist über den Dialog "Erweiterungen verwalten"
-   verfügbar.
+*	 Hilfe zur NVDA-Erweiterung ist über das Dialogfeld "Erweiterungen
+   verwalten" verfügbar.
 
 ## Änderungen in 1.5 ##
-*	 Skriptkategorie Sprache hinzugefügt.
-*	 Überprüfen der veralteten Version der Erweiterung, die nicht von der
+*	 Skriptkategorie "Sprachausgabe" hinzugefügt.
+*	 Überprüfen der veralteten Version der NVDA-Erweiterung, die nicht von der
    Comunity unterstützt wird. Nach Rückfrage wird diese gelöscht.
 
 ## Änderungen in 1.4 ##
@@ -26,7 +26,7 @@ NVDA+S drücken, können Sie nur den Sprachmodus ein- oder ausschalten.
    hinzugefügt, sodass Zeichenketten übersetzt werden können.
 
 ## Änderungen in 1.2 ##
-*	 Erstveröffentlichung.
+*	 Erste Version.
 
 [[!tag dev stable]]
 
