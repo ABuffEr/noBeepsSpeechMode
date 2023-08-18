@@ -28,6 +28,6 @@ arasında geçiş yapabilirsiniz.
 
 [[!tag dev stable]]
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=nb
+[1]: https://www.nvaccess.org/addonStore/legacy?file=noBeepsSpeechMode
 
-[2]: https://www.nvaccess.org/addonStore/legacy?file=nb-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=noBeepsSpeechMode-dev
