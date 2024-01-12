@@ -13,9 +13,34 @@ try:
 except:
 	SCRCAT_SPEECH = None
 
+def compatibilityAlert():
+	import wx
+	import gui
+	wx.CallLater(
+		5000,
+		gui.messageBox,
+		# Translators: Shown when add-on is enabled on NVDA after 2023.3
+		_("NoBeepsSpeechMode is no longer necessary for NVDA after 2023.3,\nand may conflict with the new speech modes feature; please remove it.\nThank you for all these years together!"),
+		_("Warning!"),
+		wx.ICON_WARNING | wx.OK,
+		gui.mainFrame
+	)
+
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	scriptCategory = SCRCAT_SPEECH
+
+	def __init__(self, *args, **kwargs):
+	 # a new init to say goodbye...
+		super(GlobalPlugin, self).__init__(*args, **kwargs)
+		import globalVars
+		if globalVars.appArgs.secure:
+			return
+		from versionInfo import version_year
+		if version_year < 2024:
+			return
+		from core import postNvdaStartup
+		postNvdaStartup.register(compatibilityAlert)
 
 	def script_noBeepsSpeechMode(self, gesture):
 		curMode = speech.getState().speechMode
